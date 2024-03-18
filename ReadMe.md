@@ -1,6 +1,5 @@
 # 💫 About Me:
-High school Student<br>Currently learning Front-End Development<br>I like Turtles.
-
+High school Student<br>Currently learning Front-End Development.<br>I'm insomniac.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FezxQc) 
@@ -17,5 +16,7 @@ High school Student<br>Currently learning Front-End Development<br>I like Turtle
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ferozXQc&icon=2&color=8)](https://visitcount.itsvg.in)
+
+![alt text](https://img-9gag-fun.9cache.com/photo/aD30Kb9_460s.jpg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
