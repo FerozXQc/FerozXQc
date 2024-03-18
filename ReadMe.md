@@ -1,5 +1,5 @@
 # 💫 About Me:
-17<br>Currently learning Front-End Development.<br>I'm insomniac.
+17<br>insomniac.<br>Currently learning Front-End Development.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FezxQc) 
