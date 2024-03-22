@@ -1,4 +1,4 @@
-# 💫 About Me:
+#🧏🏻‍♂️ About Me:
 🌱 I’m currently learning JavaScript & React<br>💬 Ask me about HTML, CSS & JavaScript<br>⚡ Fun fact: Watching too many tutorials + less practice leads to tutorial HELL
 
 
